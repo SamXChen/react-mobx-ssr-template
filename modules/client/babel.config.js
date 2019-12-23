@@ -9,7 +9,6 @@ module.exports = {
         "targets": {
           "browsers": ["android >= 4.0", "ios >= 8"]
         },
-        "modules": "commonjs"
       }
     ],
     "@babel/preset-typescript",
