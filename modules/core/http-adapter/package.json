@@ -15,7 +15,7 @@
     "browser-cookies": "^1.2.0",
     "deep-extend": "^0.6.0",
     "jest": "^23.6.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "request": "^2.88.0",
     "ts-jest": "^23.10.5",
     "typescript": "^3.2.4",
